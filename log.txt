@@ -1,0 +1,88 @@
+12.07.2025|17:52:18 - TEST MESSAGE
+12.07.2025|17:52:18 - ERROR: TEST ERROR
+12.07.2025|17:58:26 - start time successfully saved
+12.07.2025|17:59:31 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck'
+12.07.2025|18:01:32 - start time successfully saved
+12.07.2025|18:01:45 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' at None
+12.07.2025|18:03:53 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' at 
+12.07.2025|18:05:46 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' at 
+12.07.2025|18:05:54 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' at 
+12.07.2025|18:10:28 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' at 
+12.07.2025|18:20:32 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' at 
+12.07.2025|18:20:56 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' at 
+12.07.2025|18:21:46 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' on line 15
+12.07.2025|18:27:33 - start time successfully saved
+12.07.2025|18:31:14 - start time successfully saved
+12.07.2025|18:31:56 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' on line 18
+12.07.2025|18:32:13 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' on line 18
+12.07.2025|18:32:22 - start time successfully saved
+12.07.2025|18:32:35 - ERROR: '_io.TextIOWrapper' object has no attribute 'fuck' on line 18
+12.07.2025|18:35:21 - ERROR: Cycle dates do not match 13.07.2025 and 12.07.2025
+12.07.2025|19:30:50 - start time successfully saved
+12.07.2025|19:37:47 - ERROR: Cycle dates do not match: 9 and 12.07.2025
+12.07.2025|19:42:03 - start time successfully saved
+12.07.2025|19:47:59 - ERROR: Cycle dates do not match: 19.42.03 and 12.07.2025
+12.07.2025|20:46:49 - successfully calculated duration of workout
+12.07.2025|20:46:51 - successfully calculated duration of workout
+12.07.2025|20:47:13 - successfully calculated duration of workout
+12.07.2025|20:55:54 - successfully calculated duration of workout
+12.07.2025|21:02:27 - successfully calculated duration of workout
+12.07.2025|21:02:41 - successfully calculated duration of workout
+12.07.2025|21:02:49 - successfully calculated duration of workout
+12.07.2025|21:02:59 - successfully calculated duration of workout
+12.07.2025|21:04:03 - successfully calculated duration of workout
+12.07.2025|21:04:11 - successfully calculated duration of workout
+12.07.2025|21:04:16 - successfully calculated duration of workout
+12.07.2025|21:04:51 - start time successfully saved
+12.07.2025|21:04:55 - successfully calculated duration of workout
+12.07.2025|21:57:21 - start time successfully saved
+12.07.2025|21:58:10 - start time successfully saved
+12.07.2025|22:06:49 - start time successfully saved
+12.07.2025|22:11:44 - start time successfully saved
+12.07.2025|22:12:12 - start time successfully saved
+12.07.2025|22:15:03 - ERROR: failed to calculate duration of workout
+12.07.2025|22:16:19 - successfully calculated duration of workout
+12.07.2025|22:22:14 - start time successfully saved
+12.07.2025|22:22:50 - successfully calculated duration of workout
+12.07.2025|22:31:46 - start time successfully saved
+13.07.2025|16:30:07 - ERROR: Cycle dates do not match: 12.07.2025 and 13.07.2025
+13.07.2025|16:30:07 - ERROR: failed to calculate duration of workout
+13.07.2025|16:35:38 - start time successfully saved
+13.07.2025|16:48:50 - successfully calculated duration of workout
+13.07.2025|16:58:44 - start time successfully saved
+13.07.2025|17:15:00 - successfully calculated duration of workout
+14.07.2025|16:25:08 - start time successfully saved
+14.07.2025|16:25:21 - successfully calculated duration of workout
+14.07.2025|16:33:28 - start time successfully saved
+14.07.2025|16:48:18 - successfully calculated duration of workout
+14.07.2025|16:51:34 - start time successfully saved
+14.07.2025|17:13:42 - successfully calculated duration of workout
+15.07.2025|02:22:46 - start time successfully saved
+15.07.2025|12:36:11 - start time successfully saved
+15.07.2025|12:50:40 - successfully calculated duration of workout
+15.07.2025|13:46:23 - ERROR: failed to calculate duration of workout
+15.07.2025|13:51:37 - ERROR: failed to calculate duration of workout
+15.07.2025|13:51:57 - start time successfully saved
+15.07.2025|14:08:12 - successfully calculated duration of workout
+15.07.2025|17:50:21 - start time successfully saved
+15.07.2025|17:51:20 - successfully calculated duration of workout
+15.07.2025|17:53:56 - TEST MESSAGE
+15.07.2025|17:53:56 - ERROR: TEST ERROR
+16.07.2025|14:26:09 - start time successfully saved
+16.07.2025|14:41:35 - successfully calculated duration of workout
+16.07.2025|15:31:29 - ERROR: failed to calculate duration of workout
+16.07.2025|15:37:19 - start time successfully saved
+16.07.2025|15:53:32 - successfully calculated duration of workout
+18.07.2025|14:56:49 - start time successfully saved
+18.07.2025|14:57:51 - start time successfully saved
+18.07.2025|15:12:01 - successfully calculated duration of workout
+18.07.2025|16:04:15 - start time successfully saved
+18.07.2025|16:19:17 - successfully calculated duration of workout
+21.07.2025|15:24:10 - start time successfully saved
+21.07.2025|15:25:49 - successfully calculated duration of workout
+21.07.2025|15:25:50 - start time successfully saved
+21.07.2025|15:41:02 - successfully calculated duration of workout
+21.07.2025|15:41:57 - start time successfully saved
+21.07.2025|16:00:26 - successfully calculated duration of workout
+23.07.2025|14:37:26 - start time successfully saved
+23.07.2025|15:54:03 - start time successfully saved
